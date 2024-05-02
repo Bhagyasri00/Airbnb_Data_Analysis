@@ -17,7 +17,7 @@ Airbnb is an online platform founded in 2008 that connects travelers with unique
 This dataset comprises approximately 49,000 observations and includes a mix of categorical and numerical variables related to property listings, host characteristics, pricing, and guest reviews. The primary objective is to identify and analyze the factors influencing Airbnb's growth, encompassing spatial distribution, property types, pricing trends, amenities, and guest satisfaction. By conducting a thorough analysis of this dataset using data analysis and visualization techniques, we aim to provide actionable insights that inform strategic decision-making for Airbnb's continued success and innovation in the competitive NYC market.
 
 
-# Libraries Use:
+# Libraries Used:
 
 
 
